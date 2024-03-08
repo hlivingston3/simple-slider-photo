@@ -1,0 +1,17 @@
+{
+  "name": "simple-slider-photo",
+  "version": "1.0.0",
+  "description": "A simple and functional slider.",
+  "main": "main.js",
+  "author": "@hlivingston3",
+  "repository": "https://github.com/hlivingston3/simple-slider-photo",
+  "license": "ISC",
+  "keywords": [
+    "npm",
+    "slider",
+    "simple",
+    "functional"
+  ],
+  "dependencies": {
+  }
+}

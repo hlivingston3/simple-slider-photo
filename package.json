@@ -1,6 +1,6 @@
 {
   "name": "simple-slider-photo",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A simple and functional slider.",
   "main": "main.js",
   "author": "@hlivingston3",
@@ -13,5 +13,11 @@
     "functional"
   ],
   "dependencies": {
+    "@harmansate/simple-sky": "^1.0.2",
+    "@orihurah/tea-xyz-quest": "^1.0.3",
+    "simple-loading-wave": "^0.0.2",
+    "simple-react-btn": "^1.0.1",
+    "simpleton-jwt": "^1.0.1",
+    "smpl-cachejs": "^0.0.4"
   }
 }
